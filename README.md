@@ -4,7 +4,13 @@ You can get the script here :
 loadstring(game:HttpGet("https://raw.githubusercontent.com/x47base/RadonHub/main/RadonHub.lua", true))()
 ```
 
-
+## Supported Games
+```MD
+[155615604]( Prison Life )
+[270499015]( Sandhurst Military Academy )
+[3101667897]( Legends of Speed )
+[3956818381]( Ninja Legends )
+```
 
 ## Executors
 ### Why you need a good executor?
