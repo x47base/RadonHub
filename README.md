@@ -1,7 +1,7 @@
 # RadonHub
 You can get the script here : 
 ```LUA
-cloadstring(game:HttpGet("https://raw.githubusercontent.com/x47base/RadonHub/main/RadonHub.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/x47base/RadonHub/main/RadonHub.lua", true))()
 ```
 
 
