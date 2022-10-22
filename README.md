@@ -13,6 +13,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/x47base/RadonHub/main
 ```
 
 ## Purchase RadonHub Source Code
+After the purchase contact `x47#9197` with proof of purchase to get the source code.
 https://buy.stripe.com/eVaaI98EAa9f5DqbII
 
 ## Executors
