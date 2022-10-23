@@ -13,8 +13,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/x47base/RadonHub/main
 ```
 
 ## Purchase RadonHub Source Code
-After the purchase contact `x47#9197` with proof of purchase to get the source code.
-https://buy.stripe.com/eVaaI98EAa9f5DqbII
+Buy the source code for 9.95 CHF. After purchase contact `x47#9197` with proof of purchase to get the source code.
+https://buy.stripe.com/bIYeYp0844OV7Ly001
 
 ## Executors
 ### Why you need a good executor?
